@@ -1,5 +1,7 @@
 # UK geographic area codes
 
+[![Build Status](https://travis-ci.org/CloudUnder/area-codes-uk.svg?branch=master)](https://travis-ci.org/CloudUnder/area-codes-uk)
+
 A dataset with over 700 dialling codes of the United Kingdom, which comes
 with a simple function to look up areas by phone number.
 
