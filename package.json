@@ -26,5 +26,6 @@
   ],
   "devDependencies": {
     "mocha": "^2.4.5"
-  }
+  },
+  "tonicExample": "var areaCodes = require('area-codes-uk'); areaCodes.lookupUK('01619999999');"
 }
