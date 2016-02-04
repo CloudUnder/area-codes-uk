@@ -1,6 +1,6 @@
 {
   "name": "area-codes-uk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Search for UK dialling codes in JavaScript",
   "author": {
     "name": "Nick Zahn",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/Manc/area-codes-uk.git"
+    "url" : "https://github.com/CloudUnder/area-codes-uk.git"
 },
   "license": "MIT",
   "keywords": [
